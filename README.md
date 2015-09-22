@@ -1,5 +1,4 @@
 # FPGA-stuff
-# FPGA-stuff
 
 The script can be run using
 1) Copy the design.sv, fhw.sv, timing.tcl and run_fpga.tcl to a new folder
